@@ -1,0 +1,128 @@
+# Project exclude paths
+/.gradle/
+/Control Flow/Break and Continue/Break/out/
+/Control Flow/Break and Continue/Break/out/production/classes/
+/Control Flow/Break and Continue/Continue/out/
+/Control Flow/Break and Continue/Continue/out/production/classes/
+/Control Flow/Break and Continue/Labels/out/
+/Control Flow/Break and Continue/Labels/out/production/classes/
+/Control Flow/Enumeration/Anonymous Class in Enumeration/out/
+/Control Flow/Enumeration/Anonymous Class in Enumeration/out/production/classes/
+/Control Flow/Enumeration/Enumeration/out/
+/Control Flow/Enumeration/Enumeration/out/production/classes/
+/Control Flow/Latihan/Latihan/build/
+/Control Flow/Range and For loop/For Loop/out/
+/Control Flow/Range and For loop/For Loop/out/production/classes/
+/Control Flow/Range and For loop/For Loop Index/out/
+/Control Flow/Range and For loop/For Loop Index/out/production/classes/
+/Control Flow/Range and For loop/For Loop with Step Extension/out/
+/Control Flow/Range and For loop/For Loop with Step Extension/out/production/classes/
+/Control Flow/Range and For loop/ForEach/out/
+/Control Flow/Range and For loop/ForEach/out/production/classes/
+/Control Flow/Range and For loop/ForEachIndexed/out/
+/Control Flow/Range and For loop/ForEachIndexed/out/production/classes/
+/Control Flow/Range and For loop/Range with `!in` Operator/out/
+/Control Flow/Range and For loop/Range with `!in` Operator/out/production/classes/
+/Control Flow/When Expression/Multiple statement in Condition block/out/
+/Control Flow/When Expression/Multiple statement in Condition block/out/production/classes/
+/Control Flow/When Expression/When/out/
+/Control Flow/When Expression/When/out/production/classes/
+/Control Flow/When Expression/When with Range as a Condition/out/
+/Control Flow/When Expression/When with Range as a Condition/out/production/classes/
+/Control Flow/While and Do While/Do While/out/
+/Control Flow/While and Do While/Do While/out/production/classes/
+/Control Flow/While and Do While/Infinite While/out/
+/Control Flow/While and Do While/Infinite While/out/production/classes/
+/Control Flow/While and Do While/While/out/
+/Control Flow/While and Do While/While/out/production/classes/
+/Coroutines/latihan/Latihan/build/
+/Coroutines/latihan/Latihan/out/
+/Coroutines/latihan/Latihan/out/production/classes/
+/Data Class dan Collections/Collections/Collections/out/
+/Data Class dan Collections/Collections/Collections/out/production/classes/
+/Data Class dan Collections/Collections/Maps/build/
+/Data Class dan Collections/Collections/Maps/out/
+/Data Class dan Collections/Collections/Maps/out/production/classes/
+/Data Class dan Collections/Collections/Sets/out/
+/Data Class dan Collections/Collections/Sets/out/production/classes/
+/Data Class dan Collections/Collections Operations/filter and filterNot/out/
+/Data Class dan Collections/Collections Operations/filter and filterNot/out/production/classes/
+/Data Class dan Collections/Collections Operations/first/out/
+/Data Class dan Collections/Collections Operations/first/out/production/classes/
+/Data Class dan Collections/Collections Operations/map/out/
+/Data Class dan Collections/Collections Operations/map/out/production/classes/
+/Data Class dan Collections/Data Class/Comparing data class/out/
+/Data Class dan Collections/Data Class/Comparing data class/out/production/classes/
+/Data Class dan Collections/Data Class/Copying data class objects/out/
+/Data Class dan Collections/Data Class/Copying data class objects/out/production/classes/
+/Data Class dan Collections/Data Class/Data Class/build/
+/Data Class dan Collections/Data Class/Data Class/out/
+/Data Class dan Collections/Data Class/Data Class/out/production/classes/
+/Data Class dan Collections/Data Class/Destructuring Declarations/out/
+/Data Class dan Collections/Data Class/Destructuring Declarations/out/production/classes/
+/Data Class dan Collections/Data Class/Modify the data class object/out/
+/Data Class dan Collections/Data Class/Modify the data class object/out/production/classes/
+/Data Class dan Collections/Latihan/latihan/build/
+/Data Class dan Collections/Sequences/Sequences Initialization/out/
+/Data Class dan Collections/Sequences/Sequences Initialization/out/production/classes/
+/Functional/Advanced Collection Function/Distinct/out/
+/Functional/Advanced Collection Function/Distinct/out/production/classes/
+/Functional/Advanced Collection Function/Drop/out/
+/Functional/Advanced Collection Function/Drop/out/production/classes/
+/Functional/Advanced Collection Function/Fold/out/
+/Functional/Advanced Collection Function/Fold/out/production/classes/
+/Functional/Advanced Collection Function/Slice/out/
+/Functional/Advanced Collection Function/Slice/out/production/classes/
+/Functional/Advanced Collection Function/Take/out/
+/Functional/Advanced Collection Function/Take/out/production/classes/
+/Functional/Extensions/Contoh 1/out/
+/Functional/Extensions/Contoh 1/out/production/classes/
+/Functional/Extensions/Contoh 4/out/
+/Functional/Extensions/Contoh 4/out/production/classes/
+/Functional/Function Inside Function/Inner function/out/
+/Functional/Function Inside Function/Inner function/out/production/classes/
+/Functional/Function Type/Contoh 2/out/
+/Functional/Function Type/Contoh 2/out/production/classes/
+/Functional/Function Type/Contoh 3/out/
+/Functional/Function Type/Contoh 3/out/production/classes/
+/Functional/Lambda/Contoh 1/out/
+/Functional/Lambda/Contoh 1/out/production/classes/
+/Functional/Lambda/Contoh 3/out/
+/Functional/Lambda/Contoh 3/out/production/classes/
+/Functional/Latihan/Latihan/build/
+/Functional/Latihan/Latihan/out/
+/Functional/Latihan/Latihan/out/production/classes/
+/Functional/Library Helper/run/out/
+/Functional/Library Helper/run/out/production/classes/
+/Functional/Library Helper/with/out/
+/Functional/Library Helper/with/out/production/classes/
+/Functional/Member References/Function References/out/
+/Functional/Member References/Function References/out/production/classes/
+/Functional/Member References/Property References/out/
+/Functional/Member References/Property References/out/production/classes/
+/Functional/Named and Default Argument/Contoh 1/out/
+/Functional/Named and Default Argument/Contoh 1/out/production/classes/
+/Functional/Named and Default Argument/Contoh 4/out/
+/Functional/Named and Default Argument/Contoh 4/out/production/classes/
+/Functional/Recursion/Recursion Initilization/out/
+/Functional/Recursion/Recursion Initilization/out/production/classes/
+/Functional/Scope Function with Lambda Argument/also/out/
+/Functional/Scope Function with Lambda Argument/also/out/production/classes/
+/Functional/Vararg Argument/Contoh 1/out/
+/Functional/Vararg Argument/Contoh 1/out/production/classes/
+/Functional/Vararg Argument/Contoh 2/out/
+/Functional/Vararg Argument/Contoh 2/out/production/classes/
+/Functional/Vararg Argument/Contoh 3/out/
+/Functional/Vararg Argument/Contoh 3/out/production/classes/
+/Generics/Latihan/Latihan/build/
+/Generics/Latihan/Latihan/out/
+/Generics/Latihan/Latihan/out/production/classes/
+/Kotlin Fundamental/Latihan/Latihan/build/
+/Kotlin Fundamental/Latihan/Latihan/out/
+/Kotlin Fundamental/Latihan/Latihan/out/production/classes/
+/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 1/build/
+/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 2/build/
+/Membangun dan Menjalankan Program Kotlin/Program Pertama Kotlin/Hello Kotlin/build/
+/Object-Oriented/Latihan/Latihan/build/
+/Object-Oriented/Latihan/Latihan/out/
+/Object-Oriented/Latihan/Latihan/out/production/classes/
